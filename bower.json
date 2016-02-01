@@ -1,0 +1,26 @@
+{
+  "name": "switch-toggle",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mdgbg/switch-toggle",
+  "authors": [
+    "Emil Nikov <contacts@enstyled.com>"
+  ],
+  "description": "jQuery plugin for switch toggles with middle state",
+  "main": "switchToggle.js",
+  "keywords": [
+    "jquery",
+    "switch",
+    "toggle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
